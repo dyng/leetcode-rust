@@ -7,3 +7,4 @@ It's just a personal practice for [Rust](http://www.rust-lang.org/) programming 
 Problems are sorted in descending AC rates.
 
 1. [Single Number](https://oj.leetcode.com/problems/single-number/)
+2. [Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)
